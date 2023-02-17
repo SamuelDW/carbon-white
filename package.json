@@ -1,0 +1,18 @@
+{
+  "name": "@kpopfan4life/carbon-white",
+  "version": "1.0.0",
+  "description": "CSS variables for the carbon white theme",
+  "bugs": "https://github.com/SamuelDW/carbon-white/issues",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-white"
+  },
+  "keywords": [
+    "carbon-white",
+    "carbon",
+    "css"
+  ],
+  "author": "Samuel Durrant-Walker",
+  "license": "ISC"
+}
